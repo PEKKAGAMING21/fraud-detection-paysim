@@ -22,7 +22,7 @@ __pycache__/
 Thumbs.db
 
 # Data files (if you don't want to commit large datasets)
-# *.csv
+Fraud.csv
 
 # Model files
 *.pkl
